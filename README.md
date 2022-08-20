@@ -1,6 +1,7 @@
-![banner](https://raw.githubusercontent.com/Nirbhayparmar/Nirbhayparmar/master/assets/webdeveloper%20open%20source%20enthusiast%20forever%20student(1).png)
+![banner](https://user-images.githubusercontent.com/62185337/185731931-de7a1635-52c0-4ccd-bffd-8be68e9bcfe7.png)
 
 
 #Hi, there!! :innocent:
 
 ### I am a student of Pandit Deendayal Petroleum University, Gandhinagar.
+
